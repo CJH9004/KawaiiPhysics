@@ -7,6 +7,7 @@
 #include "InstancedStruct.h"
 #include "BoneControllers/AnimNode_AnimDynamics.h"
 #include "BoneControllers/AnimNode_SkeletalControlBase.h"
+#include "StructUtils/InstancedStruct.h"
 #include "AnimNode_KawaiiPhysics.generated.h"
 
 class UKawaiiPhysics_CustomExternalForce;

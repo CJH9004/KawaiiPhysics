@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameplayTagContainer.h"
-#include "InstancedStruct.h"
+#include "StructUtils/InstancedStruct.h"
 #include "Animation/AnimNotifies/AnimNotifyState.h"
 #include "AnimNotifyState_KawaiiPhysics.generated.h"
 
