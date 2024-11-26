@@ -10,7 +10,7 @@
   "DocsURL": "https://github.com/pafuhana1213/KawaiiPhysics",
   "MarketplaceURL": "KawaiiPhysics : Simple fake Physics for UnrealEngine4&5",
   "SupportURL": "https://github.com/pafuhana1213/KawaiiPhysics/issues",
-  "CanContainContent": false,
+  "CanContainContent": true,
   "IsBetaVersion": false,
   "IsExperimentalVersion": false,
   "Installed": false,
